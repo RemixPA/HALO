@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HALO)))</string>
+    <string name="tap_to_launch">点击运行应用程序</string>
+    <string name="start">启动</string>
+    <string name="stop">停止</string>
+    <string name="add">加入</string>
+    <string name="choose_app">加入应用程序</string>
+    <string name="icon_picker_type">选择图案种类：</string>
+    <string name="icon_default">预设</string>
+    <string name="icon_custom">自定义</string>
+    <string name="unknown">未知</string>
+
+    <string name="stop_to_remove">在移除任何应用程序前，请先停止服务。</string>
+
+    <string name="ext_notes">便签</string>
+    <string name="ext_note1">便签 1</string>
+    <string name="ext_note2">便签 2</string>
+    <string name="ext_note3">便签 3</string>
+    <string name="ext_note4">便签 4</string>
+    <string name="extensions">插件</string>
+
+    <string name="helper_static_2">使用Halo)))</string>
+    <string name="helper_static_3">轻按扣针按钮</string>
+    <string name="helper_static_4">然后选择列表中您需要加入到Halo的应用程序。</string>
+    <string name="helper_static_5">最后点击启动按钮。如果你想要停用HALO)))，请点击暂停。</string>
+    
+    <string name="nopa_title">是否已经安装RemixPA?</string>
+    <string name="nopa_content">Halo))) 是专用于AOSPA(RemixPA)的. 你可能不能完整的体验到HALO的功能.</string>
+    <string name="nopa_ok">确定</string>
+    <string name="nopa_download">下载RemixPA</string>
+
+</resources>

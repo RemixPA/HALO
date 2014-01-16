@@ -317,12 +317,9 @@ public class MainActivity extends PreferenceActivity {
         else{
         	//Try to check if the device has PA installed.
     		
-    		String hasPa = Utils.getProp("ro.pa");
+    		String hasPa = Utils.getProp("ro.pa.version");
     		
-    		if(hasPa.equals("true")){
-    			// You're clever dude! No advice must be shown!
-            }
-    		else{
+    		if(hasPa == ""){
     			AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
 
     			builder.setMessage(R.string.nopa_content)
